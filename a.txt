@@ -1,2 +1,3 @@
 Sua file 1
 Them vao de kiem tra lenh fetch
+Them kiem tra cau 12 tren remote
